@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="register">Register</string>
+    <string name="txtEmail">TextView</string>
+    <string name="txtPassword">TextView</string>
+    <string name="btnRegister">Button</string>
+</resources>
